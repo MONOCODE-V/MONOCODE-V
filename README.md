@@ -55,21 +55,6 @@ Concepts:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MONOCODE-V&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=MONOCODE-V&icon=0&color=0" />
