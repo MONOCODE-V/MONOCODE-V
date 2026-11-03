@@ -3,22 +3,23 @@
 <h1 align="center">Hi there, I'm Mina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=38BDF8&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Software+Engineering+%26+Applied+AI;Python+%C2%B7+TypeScript+%C2%B7+Backend+Systems;Building+Client+Worklog+AI" alt="Software engineering and applied AI. Python, TypeScript, and backend systems. Building Client Worklog AI." width="520">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=38BDF8&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=AI+Software+Engineer+at+QovaTech;Forward-Deployed+Engineering;LLM+Applications+%C2%B7+RAG+%C2%B7+Backend+Systems" alt="AI Software Engineer at QovaTech. Forward-deployed engineering, LLM applications, RAG, and backend systems." width="520">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-magdy-b589812a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28"></a>
-  <a href="mailto:minamagdypro@gmail.com"><img src="https://img.shields.io/badge/Email-C64130?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mina" height="28"></a>
+  <a href="mailto:minamagdyswe@gmail.com"><img src="https://img.shields.io/badge/Email-C64130?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mina" height="28"></a>
   <a href="https://codeforces.com/profile/monocodev"><img src="https://img.shields.io/badge/Codeforces-176B9E?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" height="28"></a>
+  <a href="cv/Mina-Magdy-CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-176B9E?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Download my CV (PDF)" height="28"></a>
 </p>
 
-## 👨‍💻 About me
+## About
 
-I'm a Computer Science student at **Alexandria University**, focused on **software engineering and applied AI**. I build backend services, business applications, and tools that turn messy information into useful workflows.
+I'm an **AI Software Engineer at QovaTech**, working in a **forward-deployed role**. I work directly with clients to build and deploy AI features and backend systems.
 
-- 🧠 **Main project:** Client Worklog AI — multimodal evidence, human review, retrieval, and monthly work reports.
-- 🏢 **Professional work:** Star CRM — connected business workflows and an Arabic AI assistant.
-- 🌱 **Technical focus:** Python, TypeScript, backend design, RAG, agents, and evaluation.
+My work spans **LLM integrations, RAG, APIs, and business workflows**, including CRM software. My main personal project is **Client Worklog AI**.
+
+I'm also completing a **B.Sc. in Computer Science at Alexandria University**, with graduation expected in **July 2027**.
 
 ## 🚀 Featured work
 
@@ -56,16 +57,12 @@ Business workflows across **customers, sales, inventory, treasury, and reporting
 
 </details>
 
-## 🛠️ Tools & technologies
+## Technical focus
 
-<p align="center">
-  <b>Languages</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp&amp;theme=dark" alt="Python, TypeScript, JavaScript, C++" height="48"><br><br>
-  <b>Backend & interfaces</b><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs&amp;theme=dark" alt="Node.js, NestJS, Express, React, Next.js" height="48"><br><br>
-  <b>Data & development</b><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git&amp;theme=dark" alt="PostgreSQL, MongoDB, Prisma, Docker, Git" height="48">
-</p>
+- **AI applications:** LLM integration, RAG, LangGraph, embeddings, and evaluation.
+- **Backend:** Python, TypeScript, SQL, FastAPI, and NestJS.
+- **Data & deployment:** PostgreSQL, Redis, Docker, AWS, and CI/CD.
+- **Interfaces:** React and Next.js.
 
 ## 📊 GitHub activity
 
@@ -82,7 +79,6 @@ Business workflows across **customers, sales, inventory, treasury, and reporting
 ---
 
 <p align="center">
-  Building, learning, and improving — one project at a time.<br>
-  <a href="mailto:minamagdypro@gmail.com">Let's connect</a>
+  <a href="mailto:minamagdyswe@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/mina-magdy-b589812a4/">LinkedIn</a> · <a href="cv/Mina-Magdy-CV.pdf">CV (PDF)</a>
 </p>
 
