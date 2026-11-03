@@ -23,39 +23,37 @@ I'm also completing a **B.Sc. in Computer Science at Alexandria University**, wi
 
 ## 🚀 Featured work
 
-### Client Worklog AI
+### [Client Worklog AI](https://github.com/MONOCODE-V/client-worklog-ai)
 
-**My main project · Private source**
+**My main personal project**
 
-A local-first developer work log that connects client messages, images, and audio to **reviewed work records and evidence-backed monthly reports**.
+A local-first developer work log that turns client messages, images, and audio into **reviewed work records and evidence-backed monthly reports**. PostgreSQL holds confirmed work; retrieval connects answers to the original evidence.
 
-`Python` `FastAPI` `PostgreSQL` `Chroma` `LangChain` `React`  
-[Project overview →](projects/client-worklog-ai.md) · [Repository (private)](https://github.com/MONOCODE-V/client-worklog-ai)
+`Python` `FastAPI` `PostgreSQL` `Chroma` `React`  
+[How it works →](projects/client-worklog-ai.md) · [Source repository](https://github.com/MONOCODE-V/client-worklog-ai)
 
-### Star CRM
+### [SaaS CRM / Star CRM](https://github.com/Qova-Tech/star-crm-web)
 
-**Professional project · Private source**
+**Professional work at QovaTech**
 
-Business workflows across **customers, sales, inventory, treasury, and reporting**, with an Arabic AI assistant that prepares actions for people to review and confirm. The project documentation also uses the **SaaS Qova** name.
+CRM software covering **customers, sales, inventory, treasury, and reporting**. Its Arabic AI assistant answers business questions and prepares editable actions for users to review and confirm.
 
 `TypeScript` `Next.js` `NestJS` `Prisma` `PostgreSQL`  
-[Project overview →](projects/star-crm.md) · [Web repository (private)](https://github.com/Qova-Tech/star-crm-web)
+[Project overview →](projects/star-crm.md) · [Web repository](https://github.com/Qova-Tech/star-crm-web)
 
-### AI engineering & learning
+### [AI Logger](https://github.com/MONOCODE-V/AI-Logger-)
 
-- **[LangGraph Field Guide](https://github.com/MONOCODE-V/langgraph-field-guide)** — interactive explanations of state, routing, loops, and agent patterns. **[Open the guide ↗](https://monocode-v.github.io/langgraph-field-guide/)**
-- **[AI Engineering Study Guide](https://github.com/MONOCODE-V/AI-Engineering-Sheet-MINa)** — a forked study reference for LLMs, multimodal AI, RAG, agents, and evaluation. [Original guide](https://github.com/MakCoder-2004/AI-Engineering-Sheet).
-- **[AI Logger](https://github.com/MONOCODE-V/AI-Logger-)** — a NestJS prototype for LLM-assisted log analysis with Ollama and OpenAI.
+**Backend prototype · In progress**
 
-<details>
-<summary><b>More software projects</b></summary>
+A NestJS prototype for collecting operational logs, exploring LLM-assisted analysis with Ollama or OpenAI, and connecting alerts to incident tickets.
 
-- **Trip Management System** — private project.
-- **[Alex Med Services](https://github.com/MONOCODE-V/Alex-Med-Services-BE)** — appointment, doctor, clinic, and patient workflows.
-- **[Codersquare](https://github.com/MONOCODE-V/codersquare)** — a TypeScript/Express backend for sharing and discussing learning resources.
-- **[Course Management API](https://github.com/MONOCODE-V/course-management-api)** — Express/MongoDB practice in course records, authentication, and profiles.
+`TypeScript` `NestJS` `SQLite` `Ollama` `OpenAI`  
+[Code and current status →](https://github.com/MONOCODE-V/AI-Logger-#current-status)
 
-</details>
+## AI engineering & learning
+
+- **[LangGraph Field Guide](https://github.com/MONOCODE-V/langgraph-field-guide)** — interactive explanations of state, routing, loops, and agent patterns. [Open the guide ↗](https://monocode-v.github.io/langgraph-field-guide/)
+- **[AI Engineering Study Guide](https://github.com/MONOCODE-V/AI-Engineering-Sheet-MINa)** — an attributed fork I use as a learning reference. [Original guide](https://github.com/MakCoder-2004/AI-Engineering-Sheet).
 
 ## Technical focus
 
@@ -74,7 +72,7 @@ Business workflows across **customers, sales, inventory, treasury, and reporting
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MONOCODE-V&amp;theme=tokyonight" alt="Languages used across MONOCODE-V public repositories" width="330">
 </p>
 
-<p align="center"><sub>Public GitHub activity. Private project work is summarized in the featured projects above.</sub></p>
+<p align="center"><sub>Public GitHub activity. Selected project overviews are linked above.</sub></p>
 
 ---
 

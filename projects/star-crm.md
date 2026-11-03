@@ -1,4 +1,4 @@
-# Star CRM / SaaS Qova
+# SaaS CRM / Star CRM
 
 Business workflow software with an Arabic AI assistant. The web and API documentation also use the SaaS Qova name following their split from the original monorepo.
 

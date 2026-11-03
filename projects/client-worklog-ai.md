@@ -2,7 +2,7 @@
 
 A local-first application for turning client communication into reviewed work records and evidence-backed monthly reports.
 
-**Main project · Applied AI and software engineering · Private source**
+**Main personal project · Applied AI and software engineering**
 
 ## The problem
 
@@ -36,5 +36,7 @@ Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Chroma, LangChain in
 
 Active development. Backend workflows and retrieval have recorded acceptance gates; the local API/UI and full workflow verification continue. This overview does not claim a public deployment or new test results.
 
-Source code and client evidence remain private. This page presents the project at portfolio level.
+[Source repository →](https://github.com/MONOCODE-V/client-worklog-ai)
+
+This overview describes the engineering workflow without publishing client evidence.
 
