@@ -1,88 +1,88 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/profile-banner-mobile.svg">
-  <img src="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/profile-banner.svg" alt="Mina Magdy — Software engineering and applied AI. Building useful systems from complex information." width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0284c7&amp;height=160&amp;section=header&amp;text=Mina%20Magdy&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35" alt="Mina Magdy" width="100%">
+
+<h1 align="center">Hi there, I'm Mina 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mina-magdy-b589812a4/">LinkedIn</a> ·
-  <a href="mailto:minamagdypro@gmail.com">Email</a> ·
-  <a href="https://codeforces.com/profile/monocodev">Codeforces</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=38BDF8&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Software+Engineering+%26+Applied+AI;Python+%C2%B7+TypeScript+%C2%B7+Backend+Systems;Building+Client+Worklog+AI" alt="Software engineering and applied AI. Python, TypeScript, and backend systems. Building Client Worklog AI." width="520">
 </p>
 
-I build backend systems, business applications, and AI tools that turn complex information into useful workflows. Computer Science at Alexandria University, based in Alexandria, Egypt.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-magdy-b589812a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28"></a>
+  <a href="mailto:minamagdypro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mina" height="28"></a>
+  <a href="https://codeforces.com/profile/monocodev"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" height="28"></a>
+</p>
 
-**Explore:** [Client Worklog AI](#client-worklog-ai) · [CRM systems](#crm-systems) · [AI engineering](#ai-engineering) · [More software](#more-software)
+## 👨‍💻 About me
 
-## Client Worklog AI
+I'm a Computer Science student at **Alexandria University**, focused on **software engineering and applied AI**. I build backend services, business applications, and tools that turn messy information into useful workflows.
 
-**My main project · Local-first applied AI · Private source**
+- 🧠 **Main project:** Client Worklog AI — multimodal evidence, human review, retrieval, and monthly work reports.
+- 🏢 **Professional work:** Star CRM — connected business workflows and an Arabic AI assistant.
+- 🌱 **Technical focus:** Python, TypeScript, backend design, RAG, agents, and evaluation.
 
-Client communication is scattered across messages, screenshots, voice notes, and developer notes. Client Worklog AI connects that evidence to reviewed work records and monthly delivery reports.
+## 🚀 Featured work
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/worklog-flow-mobile.svg">
-  <img src="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/worklog-flow.svg" alt="Capture text, images, and audio; review the evidence; record confirmed work; produce a monthly report. PostgreSQL owns the record, while retrieval adds supporting context." width="100%">
-</picture>
+### Client Worklog AI
 
-- **Human review:** AI suggests; reviewed records establish the work and completion dates.
-- **Reliable reporting:** PostgreSQL supplies the complete monthly work set; Chroma supports evidence retrieval.
-- **Multimodal workflow:** original text, images, and audio remain connected to their reviewed meaning.
+**My main project · Private source**
 
-**Built with:** Python · FastAPI · PostgreSQL · SQLAlchemy · Chroma · LangChain · React · TypeScript  
-**Stage:** Active development, with backend acceptance records and ongoing API/UI workflow verification.
+A local-first developer work log that connects client messages, images, and audio to **reviewed work records and evidence-backed monthly reports**.
 
-[Explore the project overview →](projects/client-worklog-ai.md)
+`Python` `FastAPI` `PostgreSQL` `Chroma` `LangChain` `React`  
+[Project overview →](projects/client-worklog-ai.md) · [Repository (private)](https://github.com/MONOCODE-V/client-worklog-ai)
 
-## CRM systems
+### Star CRM
 
-### Star CRM / SaaS Qova
+**Professional project · Private source**
 
-**Professional work · Business applications + an Arabic AI assistant · Private source**
+Business workflows across **customers, sales, inventory, treasury, and reporting**, with an Arabic AI assistant that prepares actions for people to review and confirm. The project documentation also uses the **SaaS Qova** name.
 
-A connected business application spanning customers, sales documents, inventory, treasury, reporting, roles, and field-representative workflows. The project documentation also uses the SaaS Qova name.
+`TypeScript` `Next.js` `NestJS` `Prisma` `PostgreSQL`  
+[Project overview →](projects/star-crm.md) · [Web repository (private)](https://github.com/Qova-Tech/star-crm-web)
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/crm-workflows-mobile.svg">
-  <img src="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/crm-workflows.svg" alt="Star CRM connects customer, sales, inventory, and finance workflows. Its Arabic assistant prepares proposals for a person to review and confirm." width="100%">
-</picture>
+### AI engineering & learning
 
-The Arabic assistant answers business questions and prepares editable actions. People review and confirm proposed changes through the CRM workflow.
+- **[LangGraph Field Guide](https://github.com/MONOCODE-V/langgraph-field-guide)** — interactive explanations of state, routing, loops, and agent patterns. **[Open the guide ↗](https://monocode-v.github.io/langgraph-field-guide/)**
+- **[AI Engineering Study Guide](https://github.com/MONOCODE-V/AI-Engineering-Sheet-MINa)** — a forked study reference for LLMs, multimodal AI, RAG, agents, and evaluation. [Original guide](https://github.com/MakCoder-2004/AI-Engineering-Sheet).
+- **[AI Logger](https://github.com/MONOCODE-V/AI-Logger-)** — a NestJS prototype for LLM-assisted log analysis with Ollama and OpenAI.
 
-**Stack:** TypeScript · Next.js · NestJS · Prisma · PostgreSQL  
-**Project family:** web application, API, shared contracts, mobile application, and AI assistant.
+<details>
+<summary><b>More software projects</b></summary>
 
-[Explore the CRM overview →](projects/star-crm.md)
+- **Trip Management System** — private project.
+- **[Alex Med Services](https://github.com/MONOCODE-V/Alex-Med-Services-BE)** — appointment, doctor, clinic, and patient workflows.
+- **[Codersquare](https://github.com/MONOCODE-V/codersquare)** — a TypeScript/Express backend for sharing and discussing learning resources.
+- **[Course Management API](https://github.com/MONOCODE-V/course-management-api)** — Express/MongoDB practice in course records, authentication, and profiles.
 
-## AI engineering
+</details>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/ai-engineering-mobile.svg">
-  <img src="https://raw.githubusercontent.com/MONOCODE-V/MONOCODE-V/main/assets/ai-engineering.svg" alt="Learn the foundations, work with LLM APIs, build retrieval and agent workflows, and evaluate the results." width="100%">
-</picture>
+## 🛠️ Tools & technologies
 
-| Work | Explore |
-| --- | --- |
-| **[LangGraph Field Guide](https://github.com/MONOCODE-V/langgraph-field-guide)** | Interactive explanations of state, routing, loops, and agent patterns. [Open the guide ↗](https://monocode-v.github.io/langgraph-field-guide/) |
-| **[AI Engineering Study Guide](https://github.com/MONOCODE-V/AI-Engineering-Sheet-MINa)** | A forked learning reference covering foundations, LLM APIs, multimodal AI, RAG, agents, and evaluation. [Original guide](https://github.com/MakCoder-2004/AI-Engineering-Sheet) |
-| **[AI Logger](https://github.com/MONOCODE-V/AI-Logger-)** | A NestJS prototype exploring LLM-assisted operational log analysis with Ollama and OpenAI. |
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp&amp;theme=dark" alt="Python, TypeScript, JavaScript, C++" height="48"><br><br>
+  <b>Backend & interfaces</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs&amp;theme=dark" alt="Node.js, NestJS, Express, React, Next.js" height="48"><br><br>
+  <b>Data & development</b><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git&amp;theme=dark" alt="PostgreSQL, MongoDB, Prisma, Docker, Git" height="48">
+</p>
 
-## More software
+## 📊 GitHub activity
 
-| Project | Focus |
-| --- | --- |
-| **Trip Management System** | Private project. |
-| **[Alex Med Services](https://github.com/MONOCODE-V/Alex-Med-Services-BE)** | Appointment workflows, doctor schedules, clinics, and patient/doctor/admin roles. |
-| **[Codersquare](https://github.com/MONOCODE-V/codersquare)** | TypeScript/Express backend for sharing and discussing learning resources. |
-| **[Course Management API](https://github.com/MONOCODE-V/course-management-api)** | Express/MongoDB practice in course records, authentication, and profiles. |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MONOCODE-V&amp;theme=github_dark" alt="MONOCODE-V public GitHub contribution activity" width="700">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MONOCODE-V&amp;theme=github_dark" alt="MONOCODE-V public GitHub statistics" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MONOCODE-V&amp;theme=github_dark" alt="Languages used across MONOCODE-V public repositories" width="330">
+</p>
 
-## Tools behind the work
-
-| Applied AI | Backend & data | Product interfaces |
-| --- | --- | --- |
-| Python · LangChain · Chroma | TypeScript · Node.js · NestJS · Express | React · Next.js |
-| Retrieval · multimodal ingestion · evaluation | PostgreSQL · SQLAlchemy · Prisma · SQLite · MongoDB | TypeScript · role-based workflows |
+<p align="center"><sub>Public GitHub activity. Private project work is summarized in the featured projects above.</sub></p>
 
 ---
 
-Interested in the engineering behind these projects? [Get in touch](mailto:minamagdypro@gmail.com). Private projects are presented through high-level overviews; source code and client information stay private.
+<p align="center">
+  Building, learning, and improving — one project at a time.<br>
+  <a href="mailto:minamagdypro@gmail.com">Let's connect</a>
+</p>
 
