@@ -1,65 +1,32 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=9999999&color=F7E409&center=true&vCenter=true&width=800&lines=Mina+Magdy" alt="Mina Magdy Static Name" />
-</p>
+# Mina Magdy
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7E0&center=true&vCenter=true&width=700&lines=Software+Engineer;Competitive+Programmer" alt="Typing Roles" />
-</p>
+### Software Engineering & Applied AI
 
----
+Computer Science at Alexandria University · Alexandria, Egypt
 
-## 👋 Hi, I'm Mina Magdy
+I build backend systems and explore practical uses of AI, with a focus on APIs, data modeling, and tools that make technical ideas easier to understand.
 
-🎓 Computer Science Student at Alexandria University  
-💡 Passionate about Problem Solving, Software Engineering, and AI  
-🧠 IEEE Xtreme Community Organizer | Technical Mentor  
-🚀 I love building efficient systems and exploring open-source projects  
-🌃 “Code is like the moon — it shines brightest in the darkest night.”
+[LinkedIn](https://www.linkedin.com/in/mina-magdy-b589812a4/) · [Email](mailto:minamagdypro@gmail.com) · [Codeforces](https://codeforces.com/profile/monocodev)
 
----
+## Selected projects
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="mailto:minamagdypro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/Mina%20magdy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://facebook.com/Mina%20Magdy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href ="https://codeforces.com/profile/monocodev"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+| Project | What to explore | Status |
+| --- | --- | --- |
+| [LangGraph Field Guide](https://github.com/MONOCODE-V/langgraph-field-guide) · [Interactive guide](https://monocode-v.github.io/langgraph-field-guide/) | Visual explanations of graph state, routing, loops, and agent patterns using HTML, CSS, and JavaScript. | Educational companion; uses illustrative state rather than live LLM calls. |
+| [Alex Med Services](https://github.com/MONOCODE-V/Alex-Med-Services-BE) | Medical appointment workflows, multiple clinics, doctor schedules, and patient/doctor/admin roles with Express, Prisma, SQLite, and a React client. | Development project. |
+| [AI Logger](https://github.com/MONOCODE-V/AI-Logger-) | A NestJS prototype for log ingestion, LLM-assisted analysis through Ollama or OpenAI, and event-driven incident handling. | Prototype; the committed snapshot needs its missing logs module restored. |
+| [Codersquare](https://github.com/MONOCODE-V/codersquare) | A TypeScript/Express backend for sharing learning resources, with posts, comments, likes, JWT authentication, and SQLite persistence. | Backend prototype; React UI remains planned. |
 
-</p>
+Additional backend practice: [Course Management API](https://github.com/MONOCODE-V/course-management-api), built with Express and MongoDB. Its README documents the current authentication boundaries.
 
----
+## Technical focus
 
-## 💻 Tech Stack
+- **Backend:** TypeScript, JavaScript, Node.js, Express, NestJS, REST APIs, JWT.
+- **Data:** SQLite, MongoDB, Prisma, TypeORM, relational modeling.
+- **Applied AI:** LLM integration, local inference with Ollama, log analysis, and graph-based agent concepts.
+- **Foundations:** C++, problem solving, and object-oriented programming.
 
-```diff
-Languages:
-+ C++  + Python  + JavaScript  + Java  + Go  + Bash  + PowerShell
+## What I am working toward
 
-Frameworks & Tools:
-+ Express.js  + TensorFlow  + scikit-learn  + Matplotlib  + PostgreSQL
-+ Apache  + NGINX  + AWS  + Netlify  + Vercel
+Making projects easier to run and evaluate: complete source snapshots, reproducible setup, automated checks, and clear explanations of engineering decisions and limitations.
 
-Concepts:
-+ OOP  + Software Design Patterns  + AI & ML  + Problem Solving
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MONOCODE-V&theme=tokyonight&show_icons=true&hide_border=false" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MONOCODE-V&theme=tokyonight_duo&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONOCODE-V&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MONOCODE-V&icon=0&color=0" />
-</p>
-
-<!-- Made with ❤️ by Mina Magdy -->
