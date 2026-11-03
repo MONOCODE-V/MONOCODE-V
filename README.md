@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-magdy-b589812a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28"></a>
-  <a href="mailto:minamagdypro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mina" height="28"></a>
-  <a href="https://codeforces.com/profile/monocodev"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" height="28"></a>
+  <a href="mailto:minamagdypro@gmail.com"><img src="https://img.shields.io/badge/Email-C64130?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Mina" height="28"></a>
+  <a href="https://codeforces.com/profile/monocodev"><img src="https://img.shields.io/badge/Codeforces-176B9E?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" height="28"></a>
 </p>
 
 ## 👨‍💻 About me
@@ -70,11 +70,11 @@ Business workflows across **customers, sales, inventory, treasury, and reporting
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MONOCODE-V&amp;theme=github_dark" alt="MONOCODE-V public GitHub contribution activity" width="700">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MONOCODE-V&amp;theme=tokyonight" alt="MONOCODE-V public GitHub contribution activity" width="700">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MONOCODE-V&amp;theme=github_dark" alt="MONOCODE-V public GitHub statistics" width="330">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MONOCODE-V&amp;theme=github_dark" alt="Languages used across MONOCODE-V public repositories" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MONOCODE-V&amp;theme=tokyonight" alt="MONOCODE-V public GitHub statistics" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MONOCODE-V&amp;theme=tokyonight" alt="Languages used across MONOCODE-V public repositories" width="330">
 </p>
 
 <p align="center"><sub>Public GitHub activity. Private project work is summarized in the featured projects above.</sub></p>
